@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/usersTable/static/css/main.509c67f1.css",
+    "main.js": "/usersTable/static/js/main.73ae38ef.js",
+    "static/media/Roboto-Regular.woff": "/usersTable/static/media/Roboto-Regular.d535d388dc916299d083.woff",
+    "index.html": "/usersTable/index.html",
+    "main.509c67f1.css.map": "/usersTable/static/css/main.509c67f1.css.map",
+    "main.73ae38ef.js.map": "/usersTable/static/js/main.73ae38ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509c67f1.css",
+    "static/js/main.73ae38ef.js"
+  ]
+}
